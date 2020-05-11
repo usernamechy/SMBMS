@@ -9,4 +9,8 @@ public class DemoGit {
         System.out.println("dev1111111111111111111");
         System.out.println("dev2222222222222222222");
     }
+
+    public void testFeatrue(){
+        System.out.println("F1111111111111111111");
+    }
 }
